@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "ASUS Zenbook 14",
+        "price": 790000,
+        "image": "images/asus.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Iphone 15 PRO",
+        "price": 820000,
+        "image": "images/iphone.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Nintendo Switch Oled",
+        "price": 200000,
+        "image": "images/nintendo.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Dual Sens PS5",
+        "price": 60000,
+        "image": "images/dualsens.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "SAMSUNG GALAXY S23 ULTRA",
+        "price": 1250000,
+        "image": "images/Samsung.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Macbook PRO",
+        "price": 1550000,
+        "image": "images/macbook.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Samsung TV Ultra HD",
+        "price": 1750000,
+        "image": "images/tvSamsung.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "SAMSUNG GALAXY FOLD",
+        "price": 1300000,
+        "image": "images/fold.jpeg"
+    }
+]
